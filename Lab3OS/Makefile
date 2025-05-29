@@ -1,10 +1,16 @@
-all: rr sjf
+CC      = gcc
+CFLAGS  = -Wall -g
+TARGETS = sjf rr
 
-rr: RR_inital.c
-    gcc -std=c99 -o rr RR_inital.c
+.PHONY: all clean
+
+all: $(TARGETS)
 
 sjf: SJF_inital.c
-    gcc -std=c99 -o sjf SJF_inital.c
+	$(CC) $(CFLAGS) -o $@ $<
+
+rr: RR_inital.c
+	$(CC) $(CFLAGS) -o $@ $<
 
 clean:
-    rm -f rr sjf
+	rm -f $(TARGETS)
