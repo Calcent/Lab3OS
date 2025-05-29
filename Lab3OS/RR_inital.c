@@ -99,8 +99,10 @@ void calculateWaitingTimeAndExecutionOrder(Process proc[], int n, int quantum) {
 
 // Function to calculate turnaround times for all processes
 void calculateTurnaroundTime(Process proc[], int n) {
-    calculateWaitingTimeAndExecutionOrder(proc, n, quantum);
-    calculateTurnaroundTime(proc, n);
+    for (int i = 0; i < n; i++) {
+        proc[i].turnaround_time = proc[i].burst_time
+            + proc[i].waiting_time;
+    }
 }
 
 void roundRobin(Process proc[], int n, int quantum) {

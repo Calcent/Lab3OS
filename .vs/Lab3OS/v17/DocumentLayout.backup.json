@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3OS\\RR_inital.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3OS\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\SJF_inital.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab3OS\\SJF_inital.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\Makefile",
+              "RelativeDocumentMoniker": "Lab3OS\\Makefile",
+              "ToolTip": "C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\Makefile",
+              "RelativeToolTip": "Lab3OS\\Makefile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-29T04:25:26.108Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "Lab3OS\\RR_inital.c",
               "ToolTip": "C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\RR_inital.c",
               "RelativeToolTip": "Lab3OS\\RR_inital.c",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwGcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-28T22:52:41.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SJF_inital.c",
               "DocumentMoniker": "C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\SJF_inital.c",
               "RelativeDocumentMoniker": "Lab3OS\\SJF_inital.c",
               "ToolTip": "C:\\Users\\Calcent\\OneDrive\\Documents\\GitHub\\Lab3OS\\Lab3OS\\SJF_inital.c",
               "RelativeToolTip": "Lab3OS\\SJF_inital.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-28T22:52:40.585Z"
             }
